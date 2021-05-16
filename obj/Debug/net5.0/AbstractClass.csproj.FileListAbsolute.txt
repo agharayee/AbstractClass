@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+C:\Users\Hp\Desktop\C# Class\Persnal\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache
